@@ -23,7 +23,7 @@ class Program
 
       if (time.getIndex() == 0) 
       {
-        Thread.Sleep(50000);
+        Thread.Sleep(300000);
 
         MarkedStatus._markedStatus();
      }
